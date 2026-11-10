@@ -36,7 +36,7 @@ void setup() {
   pinMode(LED, OUTPUT);
   digitalWrite(LED, LOW);
 
-  WiFi.begin("nhom7", "123456789");
+  WiFi.begin("TruongHai", "123456789");
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
     Serial.print(".");
