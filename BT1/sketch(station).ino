@@ -1,6 +1,6 @@
 #include <WiFi.h>
 
-const char* ssid = "MyESP32AP-Nhom7";
+const char* ssid = "Nhom7";
 const char* pass = "123456789";
 
 void setup() {
